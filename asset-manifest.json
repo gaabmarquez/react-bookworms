@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-bookworms/static/css/main.10b6263a.chunk.css",
-    "main.js": "/react-bookworms/static/js/main.ceed5f03.chunk.js",
-    "main.js.map": "/react-bookworms/static/js/main.ceed5f03.chunk.js.map",
+    "main.js": "/react-bookworms/static/js/main.b3732db0.chunk.js",
+    "main.js.map": "/react-bookworms/static/js/main.b3732db0.chunk.js.map",
     "runtime-main.js": "/react-bookworms/static/js/runtime-main.a5225e4e.js",
     "runtime-main.js.map": "/react-bookworms/static/js/runtime-main.a5225e4e.js.map",
     "static/css/2.47e06e2e.chunk.css": "/react-bookworms/static/css/2.47e06e2e.chunk.css",
     "static/js/2.a7049d39.chunk.js": "/react-bookworms/static/js/2.a7049d39.chunk.js",
     "static/js/2.a7049d39.chunk.js.map": "/react-bookworms/static/js/2.a7049d39.chunk.js.map",
     "index.html": "/react-bookworms/index.html",
-    "precache-manifest.49ad16770a49182326f3101368bdef15.js": "/react-bookworms/precache-manifest.49ad16770a49182326f3101368bdef15.js",
+    "precache-manifest.1879885312e54e9ee78a39a035bbbb00.js": "/react-bookworms/precache-manifest.1879885312e54e9ee78a39a035bbbb00.js",
     "service-worker.js": "/react-bookworms/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/react-bookworms/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.10b6263a.chunk.css.map": "/react-bookworms/static/css/main.10b6263a.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.a7049d39.chunk.js",
     "static/css/main.10b6263a.chunk.css",
-    "static/js/main.ceed5f03.chunk.js"
+    "static/js/main.b3732db0.chunk.js"
   ]
 }
