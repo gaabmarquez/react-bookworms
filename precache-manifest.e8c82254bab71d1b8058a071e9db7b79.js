@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f17a6ceae68cbd5a87b40fac8c513e50",
+    "revision": "ccadb2876ada3279f1b19b749c77b045",
     "url": "/react-bookworms/index.html"
   },
   {
-    "revision": "f92a6046c33c5e5dd0d8",
+    "revision": "31e09e77956b13c329dd",
     "url": "/react-bookworms/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "b6c20a1f1ed0f9c23093",
+    "revision": "372c0de7ca31e9fc5efa",
     "url": "/react-bookworms/static/css/main.10b6263a.chunk.css"
   },
   {
-    "revision": "f92a6046c33c5e5dd0d8",
-    "url": "/react-bookworms/static/js/2.a7049d39.chunk.js"
+    "revision": "31e09e77956b13c329dd",
+    "url": "/react-bookworms/static/js/2.52195be2.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/react-bookworms/static/js/2.a7049d39.chunk.js.LICENSE.txt"
+    "url": "/react-bookworms/static/js/2.52195be2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b6c20a1f1ed0f9c23093",
-    "url": "/react-bookworms/static/js/main.6759ec76.chunk.js"
+    "revision": "372c0de7ca31e9fc5efa",
+    "url": "/react-bookworms/static/js/main.b98e45cd.chunk.js"
   },
   {
     "revision": "11846e11d86d5ab27078",
