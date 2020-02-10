@@ -1,0 +1,35 @@
+
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap");
+
+$primary: #d45d79;
+$secondary: #32407b;
+
+body {
+  font-family: "Raleway", sans-serif !important;
+
+
+}
+.pointer{
+  cursor: pointer;
+}
+
+.btn-action {
+  background-color: $primary !important;
+  border-color: #d45d79 !important;
+  color: white !important;
+
+  &:hover,
+  &:focus &:active {
+    border-color: #d45d79 !important;
+    color: white !important;
+  }
+
+}
+
+
+.required-field {
+  &::after {
+    content: '*';
+    font-weight: bold ;
+  }
+}
